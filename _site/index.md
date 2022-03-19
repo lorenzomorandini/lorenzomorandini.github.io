@@ -6,13 +6,28 @@ modified: 2022-01-09 00:00:00
 order: 1
 ---
 
-<h1 class="pt-24 pb-6 text-center">
-	<span class="text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-		Hello world!
+
+<h2 class="pt-24 text-4xl text-center font-bold text-gray-500">
+	Ciao, sono
+</h2>
+<h1 class="pt-5 pb-6 text-center">
+	<span class="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+		Lorenzo Morandini
 	</span>
 </h1>
+<div class="pt-5 pb-12 text-center flex justify-evenly font-bold text-xl">
+	<button
+		class="rounded-lg px-10 py-5 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-indigo-100">
+		Le mie skill
+	</button>
+	<button
+		class="rounded-lg px-10 py-5 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-indigo-100">
+		Le mie skill
+	</button>
+</div>
+
 <h2 class="pb-12 text-4xl font-bold text-center text-gray-500">
-	{{ config.siteTitle }}
+	Software developer & System administrator
 </h2>
 
 <div class="container max-w-lg mx-auto text-xl text-center">
