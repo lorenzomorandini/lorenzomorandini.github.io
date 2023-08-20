@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'it-IT'
+title = 'Lorenzo Morandini'
+theme = 'terminal'
+defaultContentLanguage = 'it'
+
+[params]
+	themeColor = 'blue'
+	fullWidthTheme = false
+	centerTheme = true
+	
+[languages]
+  [languages.it]
+    languageName = "Italiano"
+    title = "Lorenzo Morandini"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = ""
+    
+    [languages.it.params.logo]
+      logoText = "Lorenzo Morandini"
+      logoHomeLink = "/"
