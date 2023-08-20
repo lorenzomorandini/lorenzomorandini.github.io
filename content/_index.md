@@ -10,6 +10,8 @@ weight: 1
 
 Sono un devops engineer e developer italiano laureato presso l'università degli studi di Milano.
 
+---
+
 # Skill
 
 ## Sistemistiche
