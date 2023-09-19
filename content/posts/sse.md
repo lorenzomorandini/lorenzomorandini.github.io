@@ -17,7 +17,7 @@ Configurazione nginx per supporto a server sent events, copiato spudoratamente d
 
 <!--more-->
 
-Configurazione nginx "finale" o comunque colui che fornisce effettivamente la risposta.
+Headers che devono essere presenti nella risposta dell'applicazione.
 
 ```
 Content-Type: text/event-stream;
