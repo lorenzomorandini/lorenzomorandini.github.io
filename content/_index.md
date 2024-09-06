@@ -44,8 +44,15 @@ Sono un devops engineer e developer italiano laureato presso l'università degli
 
 * **Vue.js**
 
-
 	Sviluppo in javascript ed utilizzo del framework Vue.js per applicazione web, mobile e desktop (PWA)
+
+* **HTMX**
+
+	Lo adoro, miglior framework del mondo
+
+* **AlpineJS**
+
+	Ottima alternativa a Vue se si parte da un sistema server rendered
 
 * **SQL**
 
